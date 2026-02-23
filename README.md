@@ -1,3 +1,8 @@
+#Pizza Project made from a React course.
+This project was created from The Ultimate React Course 2025: React, Next.js, Redux & More by Jonas Schedtmann. Jonas explicitly states that his students can put projects in their portfolios; this project was programmed by me while following his course.
+
+The goal of this website was to introduce me to standard React practices, and it covered how to pass in props and use components multiple times.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
